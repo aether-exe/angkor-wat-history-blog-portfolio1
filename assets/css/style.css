@@ -95,8 +95,8 @@ to{
 }
 
 #cover-text {
-    font-size: 130%;
-    font-family: Oswald, sans-serif;
+    font-size: 120%;
+    font-family: Arvo, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -106,11 +106,11 @@ to{
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(126, 129, 106, 0.7);
-    border-radius: 8px;
+    background-color: rgba(125,143,61,0.8);
+    border-radius: 25px;
 
-    bottom: 30px;
-    right: 150px;
+    bottom: 50px;
+    left: 200px;
 
     position: absolute;
 }
