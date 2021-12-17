@@ -24,7 +24,7 @@ h1, h2 {
 }
 
 #logo {
-    float: center;
+    float: left;
     font-size: 200%;
     margin-left: 50px;
 }
@@ -70,7 +70,7 @@ h1, h2 {
 }
 
 #cover-text, #cover-text h2 {
-    color: #fff;
+    color: rgb(28, 31, 29);
 }
 
 #hero-image {
@@ -107,6 +107,7 @@ to{
     padding-left: 10px;
 
     background-color: rgba(126, 129, 106, 0.7);
+    border-radius: 8px;
 
     bottom: 30px;
     right: 150px;
@@ -118,13 +119,14 @@ to{
     height: 600px;
 }
 
-#left-about {
+#angkor-image-1 {
+    background: 
     padding-top: 30px;
     width: 33%;
     float: left; 
 }
 
-#right-about {
+#angkor-text-right {
     padding-top: 30px;
     width: 33%;
     float: right; 
